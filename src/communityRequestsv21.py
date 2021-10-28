@@ -58,23 +58,23 @@ orderStartDate = datetime.strptime(StartDate, "%m/%d/%Y")
               
 # open orderItems file for writing
 
-orderHdr = {'OrderId': ['50','51'],
-        'CustomerId': ['90','91'],
-        'OrderTotal': ['200','200'],
-        'OrderDate': ['01/10/2021','01/10/2021'],
-        'Location': ['AGA West','AGA South'],
-        'CustomerName': ['Mary Smith','Sunil Brown'],
-        'CustomerGeoLat': [-34.923321,-34.9333],
-        'CustomerGeoLon': [138.602142 ,138.602142]
+orderHdr = {'OrderId': [],
+        'CustomerId': [],
+        'OrderTotal': [],
+        'OrderDate': [],
+        'Location': [],
+        'CustomerName': [],
+        'CustomerGeoLat': [],
+        'CustomerGeoLon': []
         }
         
-orderItems = {'OrderId': ['50','51'],
-        'OrderItemId': ['90','91'],
-        'ProductType': ['DAIRY','DAIRY'],
-        'ProductItem': ['Milk Box','Milk Choc'],
-        'ProductPeriod': ['2 weeks','3 months'],
-        'ProductDetails': ['opened','unopened'],
-        'ProductStorage': ['Refrigeration','Freezer']        
+orderItems = {'OrderId': [],
+        'OrderItemId': [],
+        'ProductType': [],
+        'ProductItem': [],
+        'ProductPeriod': [],
+        'ProductDetails': [],
+        'ProductStorage': []
         }
         
 LocationSet = ['AGA HQ','AGA South','AGA East','AGA West', 'AGA North']

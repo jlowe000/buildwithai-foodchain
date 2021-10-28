@@ -70,23 +70,23 @@ orderStartDate = datetime.strptime(StartDate, "%m/%d/%Y")
               
 # open orderItems file for writing
 
-orderHdr = {'OrderId': ['50','51'],
-        'PartnerId': ['90','91'],
-        'OrderTotal': ['200','200'],
-        'OrderDate': ['01/10/2021','01/10/2021'],
-        'PartnerName': ['Mary Smith','Sunil Brown'],
-        'PartnerGeoLat': [-34.923321,-34.9333],
-        'PartnerGeoLon': [138.602142 ,138.602142]
+orderHdr = {'OrderId': [],
+        'PartnerId': [],
+        'OrderTotal': [],
+        'OrderDate': [],
+        'PartnerName': [],
+        'PartnerGeoLat': [],
+        'PartnerGeoLon': []
         }
         
-orderItems = {'OrderId': ['50','51'],
-        'OrderItemId': ['90','91'],
-        'ProductType': ['DAIRY','DAIRY'],
-        'ProductItem': ['Milk Box','Milk Choc'],
-        'ProductPeriod': ['2 weeks','3 months'],
-        'ProductDetails': ['opened','unopened'],
-        'ProductStorage': ['Refrigeration','Freezer'],
-        'Quantity': [5,10],        
+orderItems = {'OrderId': [],
+        'OrderItemId': [],
+        'ProductType': [],
+        'ProductItem': [],
+        'ProductPeriod': [],
+        'ProductDetails': [],
+        'ProductStorage': [],
+        'Quantity': []
         }
         
 Partners = ['FoodieLand','LoMarket','Grocertown']
