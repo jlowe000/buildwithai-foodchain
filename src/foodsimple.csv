@@ -1,0 +1,13 @@
+TYPE,ITEM,PERIOD,DETAILS,STORAGE
+DIARY,"Cheese, processed slices",1-2 months,,REFRIGERATED
+DIARY,"Eggs, in shell",3-5 weeks,,REFRIGERATED
+DIARY,Margarine,12 months,,FROZEN
+DIARY,"Milk, plain or flavored",1 week,,REFRIGERATED
+SOY,Tofu,1 week,,REFRIGERATED
+PROCESSED_MEAT,Bacon,1 week,,REFRIGERATED
+PROCESSED_MEAT,"Ham, canned (""keep refrigerated"" label)",6-9 months,,REFRIGERATED
+FRUIT,Apples,1-2 days,,SHELF
+FRUIT,Bananas,Until ripe,,SHELF
+VEGETABLES,Tomatoes,Until ripe,,SHELF
+SHELF_ITEM,"Rice, white or wild",2 years,unopened,SHELF
+BAKERY,"Bread, commercial*",2-4 days,,SHELF
