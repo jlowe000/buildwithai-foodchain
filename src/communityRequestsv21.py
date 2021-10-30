@@ -91,6 +91,7 @@ Low_Item_No=12
 High_Item_No=20
 Food_Catalog=len(df_fe)
 
+orderId = Start_OrderID
 
 for i in range(0,Community):
     
@@ -107,8 +108,9 @@ for i in range(0,Community):
     
     for j in range(0,orderFreq,1) :
    
+      orderId = orderId + 1
       orderHdr['CustomerId'].append(Start_CustomerID+i)                 # autogen 
-      orderHdr['OrderId'].append(Start_OrderID+j)                   # autogen 
+      orderHdr['OrderId'].append(orderId)                   # autogen 
       orderHdr['CustomerName'].append(person_name) 
       orderHdr['OrderTotal'].append(str(200))                   # autogen 
       orderHdr['Location'].append(orderLocation)                   # autogen 
@@ -122,7 +124,7 @@ for i in range(0,Community):
       for k in range(1,orderItemNos,1):
         
         Food_Index=random.randrange(1,Food_Catalog,1)
-        orderItems['OrderId'].append(Start_OrderID+j)
+        orderItems['OrderId'].append(orderId)
         orderItems['OrderItemId'].append(str(k))                
         orderItems['ProductType'].append(df_fe.loc[Food_Index]["TYPE"])                
         orderItems['ProductItem'].append(df_fe.loc[Food_Index]["ITEM"])                

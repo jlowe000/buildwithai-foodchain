@@ -104,6 +104,8 @@ High_Item_No=30
 # Jason Lowe Index Factor to create some peaks and lowes 
 JLOF_INDEX = [5, 3, 1, 8, 9, 1, 2, 3, 5, 4, 3, 2, 6, 8, 9]
 
+orderId = Start_OrderID
+
 for i in range(0,PartnerGroup,1):
     
     partner_name = Partners[i]
@@ -118,8 +120,9 @@ for i in range(0,PartnerGroup,1):
     # for each day
     for j in range(1,Period,1) :
    
+      orderId = orderId + 1;
       orderHdr['PartnerId'].append(Start_CustomerID+i)                 # autogen 
-      orderHdr['OrderId'].append(Start_OrderID+j)                   # autogen 
+      orderHdr['OrderId'].append(orderId)                   # autogen 
       orderHdr['PartnerName'].append(partner_name) 
       orderHdr['OrderTotal'].append(str(2000))                   # autogen # autogen 
       orderHdr['OrderDate'].append(orderStartDate + timedelta(days=j))    
@@ -136,7 +139,7 @@ for i in range(0,PartnerGroup,1):
         # print (math.floor(j/7))
         local_Quantity=local_Quantity * JLOF_INDEX[math.floor(j/7)]
         
-        orderItems['OrderId'].append(Start_OrderID+j)
+        orderItems['OrderId'].append(orderId)
         orderItems['OrderItemId'].append(str(local_OrderItemId))                
         orderItems['ProductType'].append(df_foodsimple.loc[Food_Index]["TYPE"])                
         orderItems['ProductItem'].append(df_foodsimple.loc[Food_Index]["ITEM"])                
@@ -154,7 +157,7 @@ for i in range(0,PartnerGroup,1):
         local_Quantity=random.randrange(Low_Item_No,High_Item_No,1)
         local_Quantity=local_Quantity * JLOF_INDEX[math.floor(j/7)]
         
-        orderItems['OrderId'].append(Start_OrderID+j)
+        orderItems['OrderId'].append(orderId)
         orderItems['OrderItemId'].append(str(local_OrderItemId))               
         orderItems['ProductType'].append(df_foodfridge.loc[Food_Index]["TYPE"])                
         orderItems['ProductItem'].append(df_foodfridge.loc[Food_Index]["ITEM"])                
@@ -173,7 +176,7 @@ for i in range(0,PartnerGroup,1):
             local_Quantity=random.randrange(Low_Item_No,High_Item_No,1)
             local_Quantity=local_Quantity * JLOF_INDEX[math.floor(j/7)]
             
-            orderItems['OrderId'].append(Start_OrderID+j)
+            orderItems['OrderId'].append(orderId)
             orderItems['OrderItemId'].append(str(local_OrderItemId))             
             orderItems['ProductType'].append(df_foodshelf.loc[Food_Index]["TYPE"])             
             orderItems['ProductItem'].append(df_foodshelf.loc[Food_Index]["ITEM"])             
