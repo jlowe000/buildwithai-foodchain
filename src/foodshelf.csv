@@ -1,229 +1,229 @@
-TYPE,ITEM,PERIOD,DETAILS,STORAGE
-FRUIT,Apples,1-2 days,,SHELF
-FRUIT,Apricots,Until ripe,,SHELF
-FRUIT,Avocados,Until ripe,,SHELF
-FRUIT,Bananas,Until ripe,,SHELF
-FRUIT,Citrus Fruit,10 days,,SHELF
-FRUIT,Coconuts,1 week,fresh,SHELF
-FRUIT,Grapes,1 day,,SHELF
-FRUIT,Kiwi Fruit,Until ripe,,SHELF
-FRUIT,Melons,1-2 days,,SHELF
-FRUIT,"Papaya, mango",3-5 days,,SHELF
-FRUIT,"Peaches, nectarines",Until ripe,,SHELF
-FRUIT,"Pears, Plums",3-5 days,,SHELF
-VEGETABLES,"Artichokes, whole",1-2 days,,SHELF
-VEGETABLES,Beets,1 day,,SHELF
-VEGETABLES,Eggplant,1 day,,SHELF
-VEGETABLES,Garlic,1 month,,SHELF
-VEGETABLES,Ginger Root,1-2 days,,SHELF
-VEGETABLES,"Onions, dry",2-3 weeks,,SHELF
-VEGETABLES,Potatoes,1-2 months,,SHELF
-VEGETABLES,Rutabagas,1 week,,SHELF
-VEGETABLES,"Squash, winter",1 week,,SHELF
-VEGETABLES,Tomatoes,Until ripe,,SHELF
-SHELF_ITEM,"Baby food, jars or cans, fruits & vegetables",Use-by date,unopened,SHELF
-SHELF_ITEM,"Baby food, meats & eggs",Use-by date,unopened,SHELF
-SHELF_ITEM,"Baby food, cereal, dry mixes",Use-by date,unopened,SHELF
-SHELF_ITEM,"Baby food, cereal, dry mixes",2 months,opened,SHELF
-SHELF_ITEM,"Baby food, formula",Use-by date,unopened,SHELF
-SHELF_ITEM,"Bacon Bits, Imitation",4 months,unopened,SHELF
-SHELF_ITEM,"Bacon Bits, Imitation",4 months,opened,SHELF
-SHELF_ITEM,"Beans, Dried",12 months,unopened,SHELF
-SHELF_ITEM,"Beans, Dried",12 months,opened,SHELF
-SHELF_ITEM,"Canned goods, low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",2-5 years,unopened,SHELF
-SHELF_ITEM,"Canned goods, high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",12-18 months,unopened,SHELF
-SHELF_ITEM,"Cereal, ready-to-eat",6-12 months,unopened,SHELF
-SHELF_ITEM,"Cereal, ready-to-eat",3 months,opened,SHELF
-SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",12 months,unopened,SHELF
-SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",6-12 months,opened,SHELF
-SHELF_ITEM,"Coffee, whole beans",1-3 weeks,unopened,SHELF
-SHELF_ITEM,"Coffee, whole beans",1 week,opened,SHELF
-SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",2 years,unopened,SHELF
-SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",1 week,opened,SHELF
-SHELF_ITEM,"Coffee, instant, jars and tins",12 months,unopened,SHELF
-SHELF_ITEM,"Coffee, instant, jars and tins",2-3 months,opened,SHELF
-BAKING,Baking powder,6 months,unopened,SHELF
-BAKING,Baking powder,3 months,opened,SHELF
-BAKING,Baking soda,18 months,unopened,SHELF
-BAKING,Baking soda,6 months,opened,SHELF
-BAKING,Biscuit or pancake mix,15 months,unopened,SHELF
-BAKING,Biscuit or pancake mix,Pkg use-by date,opened,SHELF
-BAKING,"Cake, Brownie, Bread Mixes",12-18 months,unopened,SHELF
-BAKING,"Cake, Brownie, Bread Mixes",Pkg use-by date,opened,SHELF
-BAKING,"Cornmeal, regular, degerminated",6-12 months,unopened,SHELF
-BAKING,"Cornmeal, stone ground or blue",1 month,unopened,SHELF
-BAKING,Cornstarch,18 months,unopened,SHELF
-BAKING,Cornstarch,18 months,opened,SHELF
-BAKING,"Flour, white",6-12 months,unopened,SHELF
-BAKING,"Flour, white",6-8 months,opened,SHELF
-BAKING,"Flour, whole wheat",1 month,unopened,SHELF
-BAKING,"Frosting, canned",10 months,unopened,SHELF
-BAKING,"Frosting, canned",3 months,opened,SHELF
-BAKING,"Frosting, Frosting mixes",12 months,unopened,SHELF
-BAKING,"Frosting, Frosting mixes",3 months,opened,SHELF
-BAKING,"Chocolate, unsweetened and semi-sweet, solid",18-24 months,unopened,SHELF
-BAKING,"Chocolate, unsweetened and semi-sweet, solid",1 year,opened,SHELF
-BAKING,Chocolate syrup,2 years,unopened,SHELF
-BAKING,Cocoa and Cocoa Mixes,Indefinitely,unopened,SHELF
-BAKING,Cocoa and Cocoa Mixes,1 year,opened,SHELF
-CONDIMENTS,"Barbecue sauce, bottled",12 months,unopened,SHELF
-CONDIMENTS,"Barbecue sauce, bottled",1 month,opened,SHELF
-CONDIMENTS,"Ketchup, Cocktail or Chili sauce",12 months,unopened,SHELF
-CONDIMENTS,"Ketchup, Cocktail or Chili sauce",1 month,opened,SHELF
-CONDIMENTS,Chutney,12 months,unopened,SHELF
-CONDIMENTS,"Horseradish, in jar",12 months,unopened,SHELF
-CONDIMENTS,"Mayonnaise, commercial",2-3 months,unopened,SHELF
-CONDIMENTS,Mustard,12 months,unopened,SHELF
-CONDIMENTS,Mustard,1 month,opened,SHELF
-CONDIMENTS,"Olives, black and green",12-18 months,unopened,SHELF
-CONDIMENTS,Pickles,12 months,unopened,SHELF
-CONDIMENTS,"Salad Dressings, commercial, bottled",10-12 months,unopened,SHELF
-CONDIMENTS,"Salsa, picante & taco sauces",12 months,unopened,SHELF
-COOKIES,"Cookies, packaged",2 months,unopened,SHELF
-COOKIES,"Cookies, packaged",4 weeks,opened,SHELF
-CRACKERS,Crackers,8 months,unopened,SHELF
-CRACKERS,Crackers,1 month,opened,SHELF
-SHELF_ITEM,Diet powder mixes,6 months,unopened,SHELF
-SHELF_ITEM,Diet powder mixes,3 months,opened,SHELF
-SHELF_ITEM,"Extracts, vanilla, lemon, etc.",3 years,unopened,SHELF
-SHELF_ITEM,"Extracts, vanilla, lemon, etc.",1 year,opened,SHELF
-SHELF_ITEM,"Fruits, dried",6 months,unopened,SHELF
-SHELF_ITEM,"Fruits, dried",1 month,opened,SHELF
-SHELF_ITEM,"Garlic, chopped",18 months,unopened,SHELF
-SHELF_ITEM,"Garlic, commercial jars",8 months,unopened,SHELF
-SHELF_ITEM,"Gelatin, flavored",18 months,unopened,SHELF
-SHELF_ITEM,"Gelatin, flavored",3-4 months,opened,SHELF
-SHELF_ITEM,"Gelatin, unflavored",3 years,unopened,SHELF
-SHELF_ITEM,"Gelatin, unflavored",3-4 months,opened,SHELF
-SHELF_ITEM,"Gravy, jars and cans",2-5 years,unopened,SHELF
-SHELF_ITEM,"Gravy, jars and cans",,Use entire can,SHELF
-SHELF_ITEM,"Gravy, dry gravy mixes",2 years,unopened,SHELF
-SHELF_ITEM,"Gravy, dry gravy mixes",,Mix entire packet,SHELF
-SHELF_ITEM,"Herbs, dried",1-2 years,unopened,SHELF
-SHELF_ITEM,"Herbs, dried",1 year,"Cool, dark place",SHELF
-SHELF_ITEM,Honey,12 months,unopened,SHELF
-SHELF_ITEM,Honey,12 months,opened,SHELF
-SHELF_ITEM,"Jams, jellies, preserves",12 months,unopened,SHELF
-SHELF_ITEM,"Jerky, commercially dried",12 months,unopened,SHELF
-SHELF_ITEM,"Jerky, homemade",1-2 months,opened,SHELF
-SHELF_ITEM,"Juice, boxes",4-6 months,unopened,SHELF
-SHELF_ITEM,"Lentils, dried",12 months,unopened,SHELF
-SHELF_ITEM,"Lentils, dried",12 months,opened,SHELF
-SHELF_ITEM,"Marshmallows, marshmallow creme",2-4 months,unopened,SHELF
-SHELF_ITEM,"Marshmallows, marshmallow creme",1 month,opened,SHELF
-SHELF_ITEM,"Milk, canned evaporated",12 months,unopened,SHELF
-SHELF_ITEM,Molasses,12 months,unopened,SHELF
-SHELF_ITEM,Molasses,6 months,opened,SHELF
-SHELF_ITEM,"Mushrooms, dried",6 months,unopened,SHELF
-SHELF_ITEM,"Mushrooms, dried",3 months,opened,SHELF
-SHELF_ITEM,"Oils, olive or vegetable",6 months,unopened,SHELF
-SHELF_ITEM,"Oils, olive or vegetable",1-3 months,opened,SHELF
-SHELF_ITEM,"Oils, nut oils",6 months,unopened,SHELF
-SHELF_ITEM,"Oils, vegetable oil sprays",2 years,unopened,SHELF
-SHELF_ITEM,"Oils, vegetable oil sprays",1 year,opened,SHELF
-SHELF_ITEM,"Nuts, jars or cans",12 months,unopened,SHELF
-SHELF_ITEM,"Nuts, jars or cans",1 month,opened,SHELF
-SHELF_ITEM,"Pasta, dry, without eggs",2 years,unopened,SHELF
-SHELF_ITEM,"Pasta, dry, without eggs",1 year,opened,SHELF
-SHELF_ITEM,Dry egg noodles,2 years,unopened,SHELF
-SHELF_ITEM,Dry egg noodles,1-2 months,opened,SHELF
-SHELF_ITEM,"Peanut butter, commercial",6-9 months,unopened,SHELF
-SHELF_ITEM,"Peanut butter, commercial",2-3 months,opened,SHELF
-SHELF_ITEM,"Peas, dried split",12 months,unopened,SHELF
-SHELF_ITEM,"Peas, dried split",12 months,opened,SHELF
-SHELF_ITEM,Pectin,Use by pkg. date,unopened,SHELF
-SHELF_ITEM,Pectin,1 month,opened,SHELF
-SHELF_ITEM,"Popcorn, dry kernels in jar",2 years,unopened,SHELF
-SHELF_ITEM,"Popcorn, dry kernels in jar",1 year,opened,SHELF
-SHELF_ITEM,Commercially popped in bags,2-3 months,unopened,SHELF
-SHELF_ITEM,Commercially popped in bags,1-2 weeks,opened,SHELF
-SHELF_ITEM,Commercially microwave packets,12 months,unopened,SHELF
-SHELF_ITEM,Commercially microwave packets,1-2 days,popped,SHELF
-SHELF_ITEM,Potato chips,2 months,unopened,SHELF
-SHELF_ITEM,Potato chips,1-2 weeks,opened,SHELF
-SHELF_ITEM,"Potatoes, instant",6-12 months,unopened,SHELF
-SHELF_ITEM,"Potatoes, instant",6-12 months,opened,SHELF
-SHELF_ITEM,Pudding mixes,12 months,unopened,SHELF
-SHELF_ITEM,Pudding mixes,3-4 months,opened,SHELF
-SHELF_ITEM,"Rice, white or wild",2 years,unopened,SHELF
-SHELF_ITEM,"Rice, white or wild",1 year,opened,SHELF
-SHELF_ITEM,"Rice, brown",1 year,unopened,SHELF
-SHELF_ITEM,"Rice, brown",1 year,opened,SHELF
-SHELF_ITEM,"Rice, flavored or herb mixes",6 months,unopened,SHELF
-SHELF_ITEM,"Rice, flavored or herb mixes",,Use all,SHELF
-SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",2 years,unopened,SHELF
-SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",Use entire amount,opened,SHELF
-SHELF_ITEM,"Sauce mixes, nondairy cream sauces, milk solids",1 year,unopened,SHELF
-SHELF_ITEM,"Shortening, solid",8 months,unopened,SHELF
-SHELF_ITEM,"Shortening, solid",3 months,opened,SHELF
-SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",3 mos. after date,unopened,SHELF
-SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",1 week,opened,SHELF
-SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",3 mos. after date,unopened,SHELF
-SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",2 weeks,opened,SHELF
-SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, cans",9 mos. after date,unopened,SHELF
-SHELF_ITEM,"Soup mixes, dry bouillon",12 months,unopened,SHELF
-SHELF_ITEM,"Soup mixes, dry bouillon",12 months,opened,SHELF
-SOY,"Soy or rice beverage, shelf stable",3 months or use-by date,unopened,SHELF
-SOY,"Soy or rice beverage, soy beverage powders",6 months,unopened,SHELF
-SOY,"Soy or rice beverage, soy beverage powders",3-4 months,opened,SHELF
-SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",1 year,unopened,SHELF
-SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",1 year,opened,SHELF
-SOY,"Soy or rice beverage, soy flour, full-fat",2 months,unopened,SHELF
-SOY,"Soy or rice beverage, Textured soy protein (TSP)",2 years,unopened,SHELF
-SOY,"Soy or rice beverage, Textured soy protein (TSP)",3-4 months,opened,SHELF
-SOY,"Soy or rice beverage, Re-hydrated TSP",3-4 months,unopened,SHELF
-SHELF_ITEM,Spaghetti sauce in jars,18 months,unopened,SHELF
-SHELF_ITEM,"Spices, whole",2-4 years,unopened,SHELF
-SHELF_ITEM,"Spices, whole",2-4 years,opened,SHELF
-SHELF_ITEM,"Spices, ground",2-3 years,unopened,SHELF
-SHELF_ITEM,"Spices, ground",2-3 years,opened,SHELF
-SHELF_ITEM,"Spices, paprika, red pepper, & chili powder",2 years,unopened,SHELF
-SHELF_ITEM,"Sugar, brown",4 months,,SHELF
-SHELF_ITEM,"Sugar, granulated",2 years,,SHELF
-SHELF_ITEM,"Sugar, confectioners",18 months,,SHELF
-SHELF_ITEM,"Sugar, sugar substitutes",2 years,,SHELF
-SHELF_ITEM,"Syrup, pancake",12 months,unopened,SHELF
-SHELF_ITEM,"Syrup, pancake",12 months,opened,SHELF
-SHELF_ITEM,"Syrup, genuine or real maple",12 months,unopened,SHELF
-SHELF_ITEM,Tapioca,12 months,unopened,SHELF
-SHELF_ITEM,Tapioca,12 months,opened,SHELF
-SHELF_ITEM,"Tea, bags",18 months,unopened,SHELF
-SHELF_ITEM,"Tea, bags",12 months,opened,SHELF
-SHELF_ITEM,"Tea, loose",2 years,unopened,SHELF
-SHELF_ITEM,"Tea, loose",6-12 months,opened,SHELF
-SHELF_ITEM,"Tea, instant",3 years,unopened,SHELF
-SHELF_ITEM,"Tea, instant",6-12 months,opened,SHELF
-SHELF_ITEM,"Toaster pastries, fruit filled",6 months,unopened,SHELF
-SHELF_ITEM,"Toaster pastries, non-fruit fillings",6 months,unopened,SHELF
-SHELF_ITEM,"Tomatoes, sun dried, packed in oil",12 months,unopened,SHELF
-SHELF_ITEM,"Tomatoes, sun dried, packed in oil",3-6 months,opened,SHELF
-SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",9 months,unopened,SHELF
-SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",3-6 months,opened,SHELF
-SHELF_ITEM,Vinegar,2 years,unopened,SHELF
-SHELF_ITEM,Vinegar,12 months,opened,SHELF
-SHELF_ITEM,"Yeast, dry, packets and jars",Use by date,unopened,SHELF
-SHELF_ITEM,"Water, bottled",1-2 years,unopened,SHELF
-SHELF_ITEM,"Water, bottled",3 months,opened,SHELF
-SHELF_ITEM,Worcestershire Sauce,1 year,unopened,SHELF
-SHELF_ITEM,Worcestershire Sauce,1 year,opened,SHELF
-BAKERY,"Bread, commercial*",2-4 days,,SHELF
-BAKERY,"Bread, flat (tortillas, pita)",2-4 days,,SHELF
-BAKERY,"Cakes, angel food",1-2 days,,SHELF
-BAKERY,"Cakes, chiffon, sponge",1-2 day,,SHELF
-BAKERY,"Cakes, chocolate",1-2 days,,SHELF
-BAKERY,"Cakes, fruit cake",1 month,,SHELF
-BAKERY,"Cakes, made from mix",3-4 days,,SHELF
-BAKERY,"Cakes, pound cake",3-4 days,,SHELF
-BAKERY,"Cookies, bakery or homemade",2-3 weeks,,SHELF
-BAKERY,"Croissants, butter",1 day,,SHELF
-BAKERY,"Doughnuts, glazed or cake",1-2 days,,SHELF
-BAKERY,Muffins,1-2 days,,SHELF
-BAKERY,"Pastries, danish",1-2 days,,SHELF
-BAKERY,"Pies, fruit",1-2 days,,SHELF
-BAKERY,"Pies, mincemeat",2 hours,,SHELF
-BAKERY,"Pies, pecan",2 hours,,SHELF
-BAKERY,"Pies, pumpkin",2 hours,,SHELF
-BAKERY,Quiche,2 hours,,SHELF
-BAKERY,"Rolls, yeast, baked",3-4 days,,SHELF
-BAKERY,"Rolls, yeast, partially baked",Package date,,SHELF
-BAKERY,"Rolls, filled, meat or vegetables",2 hours,,SHELF
+TYPE,ITEM,DESCRIPTION,DETAILS,STORAGE,MIN,MAX,UNIT
+FRUIT,Apples,,,SHELF,1,2,day
+FRUIT,Apricots,Until ripe,,SHELF,,,
+FRUIT,Avocados,Until ripe,,SHELF,,,
+FRUIT,Bananas,Until ripe,,SHELF,,,
+FRUIT,Citrus Fruit,,,SHELF,10,,day
+FRUIT,Coconuts,,fresh,SHELF,1,,week
+FRUIT,Grapes,,,SHELF,1,,day
+FRUIT,Kiwi Fruit,Until ripe,,SHELF,,,
+FRUIT,Melons,,,SHELF,1,2,day
+FRUIT,"Papaya, mango",,,SHELF,3,5,day
+FRUIT,"Peaches, nectarines",Until ripe,,SHELF,,,
+FRUIT,"Pears, Plums",,,SHELF,3,5,day
+VEGETABLES,"Artichokes, whole",,,SHELF,1,2,day
+VEGETABLES,Beets,,,SHELF,1,,day
+VEGETABLES,Eggplant,,,SHELF,1,,day
+VEGETABLES,Garlic,,,SHELF,1,,month
+VEGETABLES,Ginger Root,,,SHELF,1,2,day
+VEGETABLES,"Onions, dry",,,SHELF,2,3,week
+VEGETABLES,Potatoes,,,SHELF,1,2,month
+VEGETABLES,Rutabagas,,,SHELF,1,,week
+VEGETABLES,"Squash, winter",,,SHELF,1,,week
+VEGETABLES,Tomatoes,Until ripe,,SHELF,,,
+SHELF_ITEM,"Baby food, jars or cans, fruits & vegetables",Use-by date,unopened,SHELF,,,
+SHELF_ITEM,"Baby food, meats & eggs",Use-by date,unopened,SHELF,,,
+SHELF_ITEM,"Baby food, cereal, dry mixes",Use-by date,unopened,SHELF,,,
+SHELF_ITEM,"Baby food, cereal, dry mixes",,opened,SHELF,2,,month
+SHELF_ITEM,"Baby food, formula",Use-by date,unopened,SHELF,,,
+SHELF_ITEM,"Bacon Bits, Imitation",,unopened,SHELF,4,,month
+SHELF_ITEM,"Bacon Bits, Imitation",,opened,SHELF,4,,month
+SHELF_ITEM,"Beans, Dried",,unopened,SHELF,12,,month
+SHELF_ITEM,"Beans, Dried",,opened,SHELF,12,,month
+SHELF_ITEM,"Canned goods, low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach)",,unopened,SHELF,2,5,year
+SHELF_ITEM,"Canned goods, high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce)",,unopened,SHELF,12,18,month
+SHELF_ITEM,"Cereal, ready-to-eat",,unopened,SHELF,6,12,month
+SHELF_ITEM,"Cereal, ready-to-eat",,opened,SHELF,3,,month
+SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",,unopened,SHELF,12,,month
+SHELF_ITEM,"Cereal, cook before eating (oatmeal, etc.)",,opened,SHELF,6,12,month
+SHELF_ITEM,"Coffee, whole beans",,unopened,SHELF,1,3,week
+SHELF_ITEM,"Coffee, whole beans",,opened,SHELF,1,,week
+SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",,unopened,SHELF,2,,year
+SHELF_ITEM,"Coffee, non-vacuum bag ground, in cans",,opened,SHELF,1,,week
+SHELF_ITEM,"Coffee, instant, jars and tins",,unopened,SHELF,12,,month
+SHELF_ITEM,"Coffee, instant, jars and tins",,opened,SHELF,2,3,month
+BAKING,Baking powder,,unopened,SHELF,6,,month
+BAKING,Baking powder,,opened,SHELF,3,,month
+BAKING,Baking soda,,unopened,SHELF,18,,month
+BAKING,Baking soda,,opened,SHELF,6,,month
+BAKING,Biscuit or pancake mix,,unopened,SHELF,15,,month
+BAKING,Biscuit or pancake mix,Pkg use-by date,opened,SHELF,,,
+BAKING,"Cake, Brownie, Bread Mixes",,unopened,SHELF,12,18,month
+BAKING,"Cake, Brownie, Bread Mixes",Pkg use-by date,opened,SHELF,,,
+BAKING,"Cornmeal, regular, degerminated",,unopened,SHELF,6,12,month
+BAKING,"Cornmeal, stone ground or blue",,unopened,SHELF,1,,month
+BAKING,Cornstarch,,unopened,SHELF,18,,month
+BAKING,Cornstarch,,opened,SHELF,18,,month
+BAKING,"Flour, white",,unopened,SHELF,6,12,month
+BAKING,"Flour, white",,opened,SHELF,6,8,month
+BAKING,"Flour, whole wheat",,unopened,SHELF,1,,month
+BAKING,"Frosting, canned",,unopened,SHELF,10,,month
+BAKING,"Frosting, canned",,opened,SHELF,3,,month
+BAKING,"Frosting, Frosting mixes",,unopened,SHELF,12,,month
+BAKING,"Frosting, Frosting mixes",,opened,SHELF,3,,month
+BAKING,"Chocolate, unsweetened and semi-sweet, solid",,unopened,SHELF,18,24,month
+BAKING,"Chocolate, unsweetened and semi-sweet, solid",,opened,SHELF,1,,year
+BAKING,Chocolate syrup,,unopened,SHELF,2,,year
+BAKING,Cocoa and Cocoa Mixes,Indefinitely,unopened,SHELF,,,
+BAKING,Cocoa and Cocoa Mixes,,opened,SHELF,1,,year
+CONDIMENTS,"Barbecue sauce, bottled",,unopened,SHELF,12,,month
+CONDIMENTS,"Barbecue sauce, bottled",,opened,SHELF,1,,month
+CONDIMENTS,"Ketchup, Cocktail or Chili sauce",,unopened,SHELF,12,,month
+CONDIMENTS,"Ketchup, Cocktail or Chili sauce",,opened,SHELF,1,,month
+CONDIMENTS,Chutney,,unopened,SHELF,12,,month
+CONDIMENTS,"Horseradish, in jar",,unopened,SHELF,12,,month
+CONDIMENTS,"Mayonnaise, commercial",,unopened,SHELF,2,3,month
+CONDIMENTS,Mustard,,unopened,SHELF,12,,month
+CONDIMENTS,Mustard,,opened,SHELF,1,,month
+CONDIMENTS,"Olives, black and green",,unopened,SHELF,12,18,month
+CONDIMENTS,Pickles,,unopened,SHELF,12,,month
+CONDIMENTS,"Salad Dressings, commercial, bottled",,unopened,SHELF,10,12,month
+CONDIMENTS,"Salsa, picante & taco sauces",,unopened,SHELF,12,,month
+COOKIES,"Cookies, packaged",,unopened,SHELF,2,,month
+COOKIES,"Cookies, packaged",,opened,SHELF,4,,week
+CRACKERS,Crackers,,unopened,SHELF,8,,month
+CRACKERS,Crackers,,opened,SHELF,1,,month
+SHELF_ITEM,Diet powder mixes,,unopened,SHELF,6,,month
+SHELF_ITEM,Diet powder mixes,,opened,SHELF,3,,month
+SHELF_ITEM,"Extracts, vanilla, lemon, etc.",,unopened,SHELF,3,,year
+SHELF_ITEM,"Extracts, vanilla, lemon, etc.",,opened,SHELF,1,,year
+SHELF_ITEM,"Fruits, dried",,unopened,SHELF,6,,month
+SHELF_ITEM,"Fruits, dried",,opened,SHELF,1,,month
+SHELF_ITEM,"Garlic, chopped",,unopened,SHELF,18,,month
+SHELF_ITEM,"Garlic, commercial jars",,unopened,SHELF,8,,month
+SHELF_ITEM,"Gelatin, flavored",,unopened,SHELF,18,,month
+SHELF_ITEM,"Gelatin, flavored",,opened,SHELF,3,4,month
+SHELF_ITEM,"Gelatin, unflavored",,unopened,SHELF,3,,year
+SHELF_ITEM,"Gelatin, unflavored",,opened,SHELF,3,4,month
+SHELF_ITEM,"Gravy, jars and cans",,unopened,SHELF,2,5,year
+SHELF_ITEM,"Gravy, jars and cans",,Use entire can,SHELF,,,
+SHELF_ITEM,"Gravy, dry gravy mixes",,unopened,SHELF,2,,year
+SHELF_ITEM,"Gravy, dry gravy mixes",,Mix entire packet,SHELF,,,
+SHELF_ITEM,"Herbs, dried",,unopened,SHELF,1,2,year
+SHELF_ITEM,"Herbs, dried",,"Cool, dark place",SHELF,1,,year
+SHELF_ITEM,Honey,,unopened,SHELF,12,,month
+SHELF_ITEM,Honey,,opened,SHELF,12,,month
+SHELF_ITEM,"Jams, jellies, preserves",,unopened,SHELF,12,,month
+SHELF_ITEM,"Jerky, commercially dried",,unopened,SHELF,12,,month
+SHELF_ITEM,"Jerky, homemade",,opened,SHELF,1,2,month
+SHELF_ITEM,"Juice, boxes",,unopened,SHELF,4,6,month
+SHELF_ITEM,"Lentils, dried",,unopened,SHELF,12,,month
+SHELF_ITEM,"Lentils, dried",,opened,SHELF,12,,month
+SHELF_ITEM,"Marshmallows, marshmallow creme",,unopened,SHELF,2,4,month
+SHELF_ITEM,"Marshmallows, marshmallow creme",,opened,SHELF,1,,month
+SHELF_ITEM,"Milk, canned evaporated",,unopened,SHELF,12,,month
+SHELF_ITEM,Molasses,,unopened,SHELF,12,,month
+SHELF_ITEM,Molasses,,opened,SHELF,6,,month
+SHELF_ITEM,"Mushrooms, dried",,unopened,SHELF,6,,month
+SHELF_ITEM,"Mushrooms, dried",,opened,SHELF,3,,month
+SHELF_ITEM,"Oils, olive or vegetable",,unopened,SHELF,6,,month
+SHELF_ITEM,"Oils, olive or vegetable",,opened,SHELF,1,3,month
+SHELF_ITEM,"Oils, nut oils",,unopened,SHELF,6,,month
+SHELF_ITEM,"Oils, vegetable oil sprays",,unopened,SHELF,2,,year
+SHELF_ITEM,"Oils, vegetable oil sprays",,opened,SHELF,1,,year
+SHELF_ITEM,"Nuts, jars or cans",,unopened,SHELF,12,,month
+SHELF_ITEM,"Nuts, jars or cans",,opened,SHELF,1,,month
+SHELF_ITEM,"Pasta, dry, without eggs",,unopened,SHELF,2,,year
+SHELF_ITEM,"Pasta, dry, without eggs",,opened,SHELF,1,,year
+SHELF_ITEM,Dry egg noodles,,unopened,SHELF,2,,year
+SHELF_ITEM,Dry egg noodles,,opened,SHELF,1,2,month
+SHELF_ITEM,"Peanut butter, commercial",,unopened,SHELF,6,9,month
+SHELF_ITEM,"Peanut butter, commercial",,opened,SHELF,2,3,month
+SHELF_ITEM,"Peas, dried split",,unopened,SHELF,12,,month
+SHELF_ITEM,"Peas, dried split",,opened,SHELF,12,,month
+SHELF_ITEM,Pectin,Use by pkg. date,unopened,SHELF,,,
+SHELF_ITEM,Pectin,,opened,SHELF,1,,month
+SHELF_ITEM,"Popcorn, dry kernels in jar",,unopened,SHELF,2,,year
+SHELF_ITEM,"Popcorn, dry kernels in jar",,opened,SHELF,1,,year
+SHELF_ITEM,Commercially popped in bags,,unopened,SHELF,2,3,month
+SHELF_ITEM,Commercially popped in bags,,opened,SHELF,1,2,week
+SHELF_ITEM,Commercially microwave packets,,unopened,SHELF,12,,month
+SHELF_ITEM,Commercially microwave packets,,popped,SHELF,1,2,day
+SHELF_ITEM,Potato chips,,unopened,SHELF,2,,month
+SHELF_ITEM,Potato chips,,opened,SHELF,1,2,week
+SHELF_ITEM,"Potatoes, instant",,unopened,SHELF,6,12,month
+SHELF_ITEM,"Potatoes, instant",,opened,SHELF,6,12,month
+SHELF_ITEM,Pudding mixes,,unopened,SHELF,12,,month
+SHELF_ITEM,Pudding mixes,,opened,SHELF,3,4,month
+SHELF_ITEM,"Rice, white or wild",,unopened,SHELF,2,,year
+SHELF_ITEM,"Rice, white or wild",,opened,SHELF,1,,year
+SHELF_ITEM,"Rice, brown",,unopened,SHELF,1,,year
+SHELF_ITEM,"Rice, brown",,opened,SHELF,1,,year
+SHELF_ITEM,"Rice, flavored or herb mixes",,unopened,SHELF,6,,month
+SHELF_ITEM,"Rice, flavored or herb mixes",,Use all,SHELF,,,
+SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",,unopened,SHELF,2,,year
+SHELF_ITEM,"Sauce mixes, nondairy (spaghetti, taco, etc.)",Use entire amount,opened,SHELF,,,
+SHELF_ITEM,"Sauce mixes, nondairy cream sauces, milk solids",,unopened,SHELF,1,,year
+SHELF_ITEM,"Shortening, solid",,unopened,SHELF,8,,month
+SHELF_ITEM,"Shortening, solid",,opened,SHELF,3,,month
+SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",after date,unopened,SHELF,3,,months
+SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: diet sodas, bottles or cans",,opened,SHELF,1,,week
+SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",after date,unopened,SHELF,3,,months
+SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, bottles",,opened,SHELF,2,,week
+SHELF_ITEM,"Soda such as carbonated cola drinks, mixers: regular sodas, cans",after date,unopened,SHELF,9,,months
+SHELF_ITEM,"Soup mixes, dry bouillon",,unopened,SHELF,12,,month
+SHELF_ITEM,"Soup mixes, dry bouillon",,opened,SHELF,12,,month
+SOY,"Soy or rice beverage, shelf stable",or use-by date,unopened,SHELF,3,,month
+SOY,"Soy or rice beverage, soy beverage powders",,unopened,SHELF,6,,month
+SOY,"Soy or rice beverage, soy beverage powders",,opened,SHELF,3,4,month
+SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",,unopened,SHELF,1,,year
+SOY,"Soy or rice beverage, soy flour, de-fatted, low-fat",,opened,SHELF,1,,year
+SOY,"Soy or rice beverage, soy flour, full-fat",,unopened,SHELF,2,,month
+SOY,"Soy or rice beverage, Textured soy protein (TSP)",,unopened,SHELF,2,,year
+SOY,"Soy or rice beverage, Textured soy protein (TSP)",,opened,SHELF,3,4,month
+SOY,"Soy or rice beverage, Re-hydrated TSP",,unopened,SHELF,3,4,month
+SHELF_ITEM,Spaghetti sauce in jars,,unopened,SHELF,18,,month
+SHELF_ITEM,"Spices, whole",,unopened,SHELF,2,4,year
+SHELF_ITEM,"Spices, whole",,opened,SHELF,2,4,year
+SHELF_ITEM,"Spices, ground",,unopened,SHELF,2,3,year
+SHELF_ITEM,"Spices, ground",,opened,SHELF,2,3,year
+SHELF_ITEM,"Spices, paprika, red pepper, & chili powder",,unopened,SHELF,2,,year
+SHELF_ITEM,"Sugar, brown",,,SHELF,4,,month
+SHELF_ITEM,"Sugar, granulated",,,SHELF,2,,year
+SHELF_ITEM,"Sugar, confectioners",,,SHELF,18,,month
+SHELF_ITEM,"Sugar, sugar substitutes",,,SHELF,2,,year
+SHELF_ITEM,"Syrup, pancake",,unopened,SHELF,12,,month
+SHELF_ITEM,"Syrup, pancake",,opened,SHELF,12,,month
+SHELF_ITEM,"Syrup, genuine or real maple",,unopened,SHELF,12,,month
+SHELF_ITEM,Tapioca,,unopened,SHELF,12,,month
+SHELF_ITEM,Tapioca,,opened,SHELF,12,,month
+SHELF_ITEM,"Tea, bags",,unopened,SHELF,18,,month
+SHELF_ITEM,"Tea, bags",,opened,SHELF,12,,month
+SHELF_ITEM,"Tea, loose",,unopened,SHELF,2,,year
+SHELF_ITEM,"Tea, loose",,opened,SHELF,6,12,month
+SHELF_ITEM,"Tea, instant",,unopened,SHELF,3,,year
+SHELF_ITEM,"Tea, instant",,opened,SHELF,6,12,month
+SHELF_ITEM,"Toaster pastries, fruit filled",,unopened,SHELF,6,,month
+SHELF_ITEM,"Toaster pastries, non-fruit fillings",,unopened,SHELF,6,,month
+SHELF_ITEM,"Tomatoes, sun dried, packed in oil",,unopened,SHELF,12,,month
+SHELF_ITEM,"Tomatoes, sun dried, packed in oil",,opened,SHELF,3,6,month
+SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",,unopened,SHELF,9,,month
+SHELF_ITEM,"Tomatoes, sun dried, packed in cellophane",,opened,SHELF,3,6,month
+SHELF_ITEM,Vinegar,,unopened,SHELF,2,,year
+SHELF_ITEM,Vinegar,,opened,SHELF,12,,month
+SHELF_ITEM,"Yeast, dry, packets and jars",Use by date,unopened,SHELF,,,
+SHELF_ITEM,"Water, bottled",,unopened,SHELF,1,2,year
+SHELF_ITEM,"Water, bottled",,opened,SHELF,3,,month
+SHELF_ITEM,Worcestershire Sauce,,unopened,SHELF,1,,year
+SHELF_ITEM,Worcestershire Sauce,,opened,SHELF,1,,year
+BAKERY,"Bread, commercial*",,,SHELF,2,4,day
+BAKERY,"Bread, flat (tortillas, pita)",,,SHELF,2,4,day
+BAKERY,"Cakes, angel food",,,SHELF,1,2,day
+BAKERY,"Cakes, chiffon, sponge",,,SHELF,1,2,day
+BAKERY,"Cakes, chocolate",,,SHELF,1,2,day
+BAKERY,"Cakes, fruit cake",,,SHELF,1,,month
+BAKERY,"Cakes, made from mix",,,SHELF,3,4,day
+BAKERY,"Cakes, pound cake",,,SHELF,3,4,day
+BAKERY,"Cookies, bakery or homemade",,,SHELF,2,3,week
+BAKERY,"Croissants, butter",,,SHELF,1,,day
+BAKERY,"Doughnuts, glazed or cake",,,SHELF,1,2,day
+BAKERY,Muffins,,,SHELF,1,2,day
+BAKERY,"Pastries, danish",,,SHELF,1,2,day
+BAKERY,"Pies, fruit",,,SHELF,1,2,day
+BAKERY,"Pies, mincemeat",,,SHELF,2,,hour
+BAKERY,"Pies, pecan",,,SHELF,2,,hour
+BAKERY,"Pies, pumpkin",,,SHELF,2,,hour
+BAKERY,Quiche,,,SHELF,2,,hour
+BAKERY,"Rolls, yeast, baked",,,SHELF,3,4,day
+BAKERY,"Rolls, yeast, partially baked",Package date,,SHELF,,,
+BAKERY,"Rolls, filled, meat or vegetables",,,SHELF,2,,hour

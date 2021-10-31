@@ -83,7 +83,10 @@ orderItems = {'OrderId': [],
         'OrderItemId': [],
         'ProductType': [],
         'ProductItem': [],
-        'ProductPeriod': [],
+        'ProductMin': [],
+        'ProductMax': [],
+        'ProductUnit': [],
+        'ProductDescription': [],
         'ProductDetails': [],
         'ProductStorage': [],
         'Quantity': []
@@ -143,7 +146,10 @@ for i in range(0,PartnerGroup,1):
         orderItems['OrderItemId'].append(str(local_OrderItemId))                
         orderItems['ProductType'].append(df_foodsimple.loc[Food_Index]["TYPE"])                
         orderItems['ProductItem'].append(df_foodsimple.loc[Food_Index]["ITEM"])                
-        orderItems['ProductPeriod'].append(df_foodsimple.loc[Food_Index]["PERIOD"])    
+        orderItems['ProductMin'].append(df_foodsimple.loc[Food_Index]["MIN"])    
+        orderItems['ProductMax'].append(df_foodsimple.loc[Food_Index]["MAX"])    
+        orderItems['ProductUnit'].append(df_foodsimple.loc[Food_Index]["UNIT"])    
+        orderItems['ProductDescription'].append(df_foodsimple.loc[Food_Index]["DESCRIPTION"])    
         orderItems['ProductDetails'].append(df_foodsimple.loc[Food_Index]["DETAILS"])    
         orderItems['ProductStorage'].append(df_foodsimple.loc[Food_Index]["STORAGE"])      
         orderItems['Quantity'].append(local_Quantity)      
@@ -161,7 +167,10 @@ for i in range(0,PartnerGroup,1):
         orderItems['OrderItemId'].append(str(local_OrderItemId))               
         orderItems['ProductType'].append(df_foodfridge.loc[Food_Index]["TYPE"])                
         orderItems['ProductItem'].append(df_foodfridge.loc[Food_Index]["ITEM"])                
-        orderItems['ProductPeriod'].append(df_foodfridge.loc[Food_Index]["PERIOD"])      
+        orderItems['ProductMin'].append(df_foodfridge.loc[Food_Index]["MIN"])    
+        orderItems['ProductMax'].append(df_foodfridge.loc[Food_Index]["MAX"])    
+        orderItems['ProductUnit'].append(df_foodfridge.loc[Food_Index]["UNIT"])    
+        orderItems['ProductDescription'].append(df_foodfridge.loc[Food_Index]["DESCRIPTION"])    
         orderItems['ProductDetails'].append(df_foodfridge.loc[Food_Index]["DETAILS"])  
         orderItems['ProductStorage'].append(df_foodfridge.loc[Food_Index]["STORAGE"])
         orderItems['Quantity'].append(local_Quantity)    
@@ -180,7 +189,10 @@ for i in range(0,PartnerGroup,1):
             orderItems['OrderItemId'].append(str(local_OrderItemId))             
             orderItems['ProductType'].append(df_foodshelf.loc[Food_Index]["TYPE"])             
             orderItems['ProductItem'].append(df_foodshelf.loc[Food_Index]["ITEM"])             
-            orderItems['ProductPeriod'].append(df_foodshelf.loc[Food_Index]["PERIOD"])      
+            orderItems['ProductMin'].append(df_foodshelf.loc[Food_Index]["MIN"])    
+            orderItems['ProductMax'].append(df_foodshelf.loc[Food_Index]["MAX"])    
+            orderItems['ProductUnit'].append(df_foodshelf.loc[Food_Index]["UNIT"])    
+            orderItems['ProductDescription'].append(df_foodshelf.loc[Food_Index]["DESCRIPTION"])    
             orderItems['ProductDetails'].append(df_foodshelf.loc[Food_Index]["DETAILS"])  
             orderItems['ProductStorage'].append(df_foodshelf.loc[Food_Index]["STORAGE"])
             orderItems['Quantity'].append(local_Quantity)    

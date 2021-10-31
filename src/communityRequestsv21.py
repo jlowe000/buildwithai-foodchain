@@ -72,7 +72,10 @@ orderItems = {'OrderId': [],
         'OrderItemId': [],
         'ProductType': [],
         'ProductItem': [],
-        'ProductPeriod': [],
+        'ProductMin': [],
+        'ProductMax': [],
+        'ProductUnit': [],
+        'ProductDescription': [],
         'ProductDetails': [],
         'ProductStorage': []
         }
@@ -128,7 +131,10 @@ for i in range(0,Community):
         orderItems['OrderItemId'].append(str(k))                
         orderItems['ProductType'].append(df_fe.loc[Food_Index]["TYPE"])                
         orderItems['ProductItem'].append(df_fe.loc[Food_Index]["ITEM"])                
-        orderItems['ProductPeriod'].append(df_fe.loc[Food_Index]["PERIOD"])                
+        orderItems['ProductMin'].append(df_fe.loc[Food_Index]["MIN"])                
+        orderItems['ProductMax'].append(df_fe.loc[Food_Index]["MAX"])                
+        orderItems['ProductUnit'].append(df_fe.loc[Food_Index]["UNIT"])                
+        orderItems['ProductDescription'].append(df_fe.loc[Food_Index]["DESCRIPTION"])                
         orderItems['ProductDetails'].append(df_fe.loc[Food_Index]["DETAILS"])                
         orderItems['ProductStorage'].append(df_fe.loc[Food_Index]["STORAGE"])      
  
